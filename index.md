@@ -6,4 +6,7 @@
 ###### h6 header
 
 
+![Image of Yaktocat](https://www.pngmart.com/files/2/Daredevil-PNG-Clipart.png)
+
 Testing different header formats
+Added image
